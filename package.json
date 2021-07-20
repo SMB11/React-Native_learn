@@ -10,7 +10,7 @@
   "dependencies": {
     "firebase": "^6.2.4",
     "react": "16.8.6",
-    "react-native": "0.60.3",
+    "react-native": "0.62.3",
     "react-native-email": "^1.0.2",
     "react-native-open-maps": "^0.3.3",
     "react-native-phone-call": "^1.0.9",
